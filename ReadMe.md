@@ -14,6 +14,6 @@ Astrophysics PhD student transferring from academia to industry through a 13 wee
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kibiko&icon=0&color=0)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-chan-5165ab216/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinjunchan/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
